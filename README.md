@@ -57,4 +57,5 @@ In summary, this project leverages the Google API to collect, store, and analyze
 
 **User Interface**
 
-![image](https://github.com/SUDHEER2002/YoutubeData-Harvesting-And-Warehousing/assets/98392941/c5b995b0-c927-4d0b-9278-587eb982ce19)
+![image](https://github.com/SUDHEER2002/YoutubeData-Harvesting-And-Warehousing/assets/98392941/3be8131c-e55b-4a3c-9c64-64a7280e10be)
+
