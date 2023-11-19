@@ -16,11 +16,11 @@ This project involves creating a user-friendly Streamlit application that utiliz
 
 To run this project, you need to install the following packages:
    
-    pip install google-api-python-client
-    pip install pymongo
-    pip install pandas
-    pip install pymysql
-    pip install streamlit
+   from googleapiclient.discovery import build
+   import pymongo
+   import psycopg2
+   import pandas as pd 
+   import streamlit as st
 
 **Features**
 
